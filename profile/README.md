@@ -59,9 +59,9 @@ TwinLeaf Project 由博藝工作室（Benmak Workshop）一人獨立開發，但
 
 | 方式 | 說明 |
 |------|------|
-| **🐛 問題回報** | [GitHub Issues](https://github.com/TwinLeaf-Project/twinleaf-os/issues) |
-| **💬 社群討論** | [Stoat.chat](https://stoat.chat/twinleaf) |
-| **📖 文件閱讀** | [GitHub Wiki](https://github.com/TwinLeaf-Project/twinleaf-os/wiki) |
+| **🐛 問題回報** | [GitHub Issues](https://github.com/TwinLeaf-Project/TwinLeaf-OS-/issues) |
+| **💬 社群討論** | [Stoat.chat](https://stt.gg/cqb4D0fD) |
+| **📖 文件閱讀** | [GitHub Wiki](https://github.com/TwinLeaf-Project/TwinLeaf-OS-/wiki) |
 | **🔧 貢獻代碼** | Fork → 修改 → Pull Request |
 
 ---
