@@ -5,7 +5,7 @@
 **一個香港人的開源項目**  
 *A Hong Kong open-source project for nicamoq, Hong Kong, and all — We Are AI PC Ready.*
 
-[![網站](https://img.shields.io/badge/網站-入口網站-1E3A8A?style=flat-square)](https://sites.google.com/view/twinleaf-os-hk/)
+
 [![Facebook](https://img.shields.io/badge/Facebook-TwinLeaf-1877F2?style=flat-square)](https://facebook.com/TwinLeaf)
 [![社群](https://img.shields.io/badge/社群-Stoat.chat-8A2BE2?style=flat-square)](https://stt.gg/cqb4D0fD)
 
@@ -19,6 +19,7 @@
 
 TwinLeaf Project 是一個源於香港的開源項目，致力於為香港用戶打造尊重私隱、易於使用、美觀自由的數位工具。
 
+
 核心理念：
 
 | 理念 | 說明 |
@@ -26,7 +27,7 @@ TwinLeaf Project 是一個源於香港的開源項目，致力於為香港用戶
 | 🤝 **尊重** | 根源切除私隱監控，不收集任何個人資料 |
 | 🎨 **美感** | 簡約優雅的介面設計，賞心悅目 |
 | ✨ **易用** | 繁體中文開箱即用，降低使用門檻 |
-| 🕊️ **自由** | 你的電腦，只屬於你 |
+| 🕊️ **自由** | 你就是軟件的主人，而並非普通用戶 |
 
 ---
 
