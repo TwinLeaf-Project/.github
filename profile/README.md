@@ -34,10 +34,8 @@ TwinLeaf Project 是一個源於香港的開源項目，致力於為香港用戶
 
 | 項目 | 說明 | 狀態 |
 |------|------|------|
-| [**TwinLeaf OS**](https://github.com/TwinLeaf-Project/TwinLeaf-OS-) | 基於 Debian + KDE 的 Linux 發行版 | 🚧 開發中 |
+| [**TwinLeaf OS**](https://github.com/TwinLeaf-Project/TwinLeaf-OS-) | 基於 Ubuntu + 平鋪式UI 的 Linux 發行版 | ⛔ 已停工 |
 | **TwinLeaf Browser** | 私隱優先的網頁瀏覽器 | 📋 規劃中 |
-| **TwinLeaf Assistant** | 本地化 AI 助理 | 🔮 籌備中 |
-| **TwinLeaf Optimizer** | 系統優化工具 | 📋 規劃中 |
 
 ---
 
